@@ -1,0 +1,28 @@
+ __main__ : 2021-05-19 23:44:48,409 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Untitled Folder
+ __main__ : 2021-05-19 23:45:47,543 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Untitled Folder
+ __main__ : 2021-05-19 23:45:53,472 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ __main__ : 2021-05-19 23:46:00,601 : INFO : connection established for insert : True
+ __main__ : 2021-05-19 23:46:04,968 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ __main__ : 2021-05-19 23:49:24,816 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Untitled Folder
+ __main__ : 2021-05-19 23:49:27,221 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ __main__ : 2021-05-19 23:49:30,381 : WARNING : warning: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ __main__ : 2021-05-19 23:49:30,512 : INFO : Table nanotube_details Created!!
+ __main__ : 2021-05-19 23:49:30,631 : INFO : connection established for insert : True
+ __main__ : 2021-05-19 23:49:35,078 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ __main__ : 2021-05-19 23:50:32,948 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ __main__ : 2021-05-19 23:50:36,975 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ __main__ : 2021-05-19 23:50:41,320 : INFO : Table nanotube_details Created!!
+ __main__ : 2021-05-19 23:50:42,957 : INFO : connection established for insert : True
+ __main__ : 2021-05-19 23:50:47,638 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ __main__ : 2021-05-21 22:01:23,122 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Insertion from py to mysql
+ __main__ : 2021-05-21 22:01:25,367 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('superstore',), ('sys',), ('tableau',), ('test',)]
+ __main__ : 2021-05-21 22:01:27,787 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ __main__ : 2021-05-21 22:01:27,931 : INFO : Table nanotube_details Created!!
+ __main__ : 2021-05-21 22:01:28,060 : INFO : connection established for insert : True
+ __main__ : 2021-05-21 22:01:34,681 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ __main__ : 2021-06-02 00:42:28,308 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Insertion from py to mysql
+ __main__ : 2021-06-02 00:42:31,896 : INFO : All databases : [('carbonnanotube',), ('employees',), ('human_resources',), ('information_schema',), ('mysql',), ('performance_schema',), ('sqltablepycharm',), ('superstore',), ('sys',), ('tableau',), ('test',)]
+ __main__ : 2021-06-02 00:42:36,986 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ __main__ : 2021-06-02 00:42:37,122 : INFO : Table nanotube_details Created!!
+ __main__ : 2021-06-02 00:42:37,256 : INFO : connection established for insert : True
+ __main__ : 2021-06-02 00:42:46,177 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details

@@ -1,0 +1,18 @@
+ preprocess : 2021-05-20 00:17:47,402 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\SQL Insertion
+ dabase_handler : 2021-05-20 00:17:58,302 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ dabase_handler : 2021-05-20 00:18:03,886 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ dabase_handler : 2021-05-20 00:18:07,282 : INFO : Table nanotube_details Created!!
+ dabase_handler : 2021-05-20 00:18:09,490 : INFO : connection established for insert : True
+ dabase_handler : 2021-05-20 00:18:14,088 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ preprocess : 2021-05-20 00:34:41,887 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\SQL Insertion
+ dabase_handler : 2021-05-20 00:34:44,158 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ dabase_handler : 2021-05-20 00:34:46,740 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ dabase_handler : 2021-05-20 00:34:46,875 : INFO : Table nanotube_details Created!!
+ dabase_handler : 2021-05-20 00:34:46,982 : INFO : connection established for insert : True
+ dabase_handler : 2021-05-20 00:34:51,442 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
+ preprocess : 2021-05-20 00:36:50,504 : INFO : file already present at C:\Users\mnnawal\Desktop\Ineuron\SQL\Insertion from py to mysql
+ dabase_handler : 2021-05-20 00:36:52,757 : INFO : All databases : [('carbonnanotube',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+ dabase_handler : 2021-05-20 00:36:55,834 : WARNING : error rectified by drop: 1007 (HY000): Can't create database 'carbonnanotube'; database exists
+ dabase_handler : 2021-05-20 00:36:55,955 : INFO : Table nanotube_details Created!!
+ dabase_handler : 2021-05-20 00:36:56,051 : INFO : connection established for insert : True
+ dabase_handler : 2021-05-20 00:37:00,581 : INFO : data inserted into db:carbonnanotube; Table : nanotube_details
